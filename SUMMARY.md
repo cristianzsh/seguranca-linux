@@ -1,15 +1,15 @@
 # Table of contents
 
 * [👋 Apresentação](README.md)
-* [⚙ Preparação](preparacao.md)
+* [⚙️ Preparação](preparacao.md)
 * [📖 Introdução](introducao.md)
 * [🆔 Trabalhando com certificados](trabalhando-com-certificados.md)
 * [🌐 Segurança no DNS](seguranca-no-dns.md)
 * [📄 Segurança de servidores HTTP](seguranca-de-servidores-http.md)
-* [🗄 Segurança de servidores FTP](seguranca-de-servidores-ftp.md)
+* [🗄️ Segurança de servidores FTP](seguranca-de-servidores-ftp.md)
 * [🔒 Parâmetros de segurança do Kernel](parametros-de-seguranca-do-kernel.md)
 * [🐚 Segurança do SSH](seguranca-do-ssh.md)
 * [💽 Criptografia de disco](criptografia-de-disco.md)
 * [💻 Proteção do bootloader](protecao-do-bootloader.md)
-* [🗃 Packet filtering](packet-filtering.md)
+* [🗃️ Packet filtering](packet-filtering.md)
 * [🐞 Host intrusion detection](host-intrusion-detection.md)

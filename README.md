@@ -14,4 +14,4 @@ Este livro foi construído a partir de diversas práticas, estudos e anotações
 
 ### Sobre o autor
 
-Cristian Souza é consultor, professor e pesquisador de cibersegurança. Graduado em redes de computadores, especialista em cibersegurança e em forense digital. Também tem experiência em análise de malware, administração de sistemas e inteligência artificial. Possui projetos _open-source_ focados em _cyber security_ e as certificações ISO 27001 Lead Auditor (PECB), CEH Master (EC-Council), Pentest+ e LPIC-3 (Linux Professional Institute).
+Cristian Souza é consultor, professor e pesquisador de cibersegurança. Graduado em redes de computadores, especialista em cibersegurança e em forense digital. Também tem experiência em análise de malware, administração de sistemas e inteligência artificial. Possui projetos _open-source_ focados em _cyber security_ e as certificações CISSP, GCFA, CASP+, CHFI, CEH Master, ISO 27001 Lead Auditor, Pentest+ e LPIC-3.
